@@ -32,7 +32,3 @@ A fully autonomous AI-driven recruitment assistant designed to simplify and opti
 - Environment variables are stored in `.env` and excluded from Git tracking.
 - Virtual environments like `Sreenjoy` are also excluded for clean collaboration.
 
-## 📧 Contact
-
-Built with 💡 by [Sreenjoy Roy].  
-For inquiries, reach out at [bijoyroykgp2@gmail.com] or connect via [LinkedIn](https://www.linkedin.com/in/sreenjoy-roy-a22b0226b/)
